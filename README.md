@@ -8,9 +8,9 @@
 
 <!-- 👨‍💻 All of my projects are available at [https://abhiramrp.github.io/](https://abhiramrp.github.io/) -->
 
-💬 Ask me about Python, Django, Machine Learning, etc. 
+💬 Ask me about Python, Django, Flask, NLP, Java, Machine Learning, etc. 
 
-📫 Reach me at **pabhiramrishi@gmail.com**
+📫 Reach me at [pabhiramrishi@gmail.com](pabhiramrishi@gmail.com)
 
 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1UtM5LFFq9-iRM1oE2ZtzYwRQ4LF87mKZ/view?usp=sharing)
 
