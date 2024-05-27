@@ -63,8 +63,6 @@
 
 ### Online Coursework:
 
-- AWS Associate Developer (In Progress) - Udemy
-
 - Introduction to Machine Learning - Coursera
 
 - Computer Science for Web Programming - HarvardX
