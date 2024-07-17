@@ -71,13 +71,6 @@
 
 - Object Oriented Programming in Java - Coursera
 
-
-### GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramrp&show_icons=true&locale=en" alt="abhiramrp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramrp&" alt="abhiramrp" /></p>
-
 <br>
 
 Created with [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
