@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhiram Rishi Prattipati</h1>
 
-👩🏻‍💻 Looking For Entry Level SE roles
+👩🏻‍💻 Software Developer at Paycom
 
 👩🏻‍🎓 BS in Computer Science from San Francisco State University
 
